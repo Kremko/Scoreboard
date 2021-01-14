@@ -1,0 +1,2 @@
+# Scoreboard
+Scoreboard no mg!
